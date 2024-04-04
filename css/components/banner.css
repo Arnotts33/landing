@@ -24,3 +24,8 @@
   border-radius: 100px;
   color: white;
 }
+
+.banner .btn-green:hover {
+  background-color: white;
+  color: rgb(88, 197, 137);
+}

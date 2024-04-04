@@ -32,3 +32,7 @@
   font-size: 2em;
   color: rgb(88, 197, 137);
 }
+
+.fab:hover {
+  color: white;
+}
